@@ -1,0 +1,77 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html lang="en">
+ <header id="header">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8"/>
+   <link rel="stylesheet" type="text/css" href="styles.css" />
+   <div id="All-header"><div class="header-pic">
+     <img id="header-img" src="http://clipart-library.com/images/LidjRBy8T.jpg" alt="dollarsign" class="header-image"/>
+     </div>
+   <div id="header-text"><h1>Would you like to buy any item(s)?</h1></div>
+      <div class="header-pic"><img id="header-img2"src="http://clipart-library.com/images/LidjRBy8T.jpg" alt="dollarsign" class="header-image"/></div></div>
+   <nav id="nav-bar">
+  <a class="nav-link"href="#Bulk-Kazoo-Package">Bulk Kazoo Package</a>
+  <a class="nav-link"href="#Stuffed-Frog">Stuffed Frog</a>
+  <a class="nav-link"href="#Tiny-Hammer">Tiny Hammer</a>
+     </nav>
+     
+  </header>
+
+<main>
+   <body>
+    <h1 id="Bulk-Kazoo-Package">
+       Bulk Kazoo Package</h1>
+       <h3>$54.99 for 100 kazoos</h3>
+       <iframe id="video" width="560" height="315" src="https://www.youtube.com/embed/Ume2mVwaxtc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <h1 id="Stuffed-Frog">
+       Stuffed Frog</h1>
+       <h3>$25.99</h3>
+       <img src="https://target.scene7.com/is/image/Target/GUEST_760d3446-39e4-48df-8899-19ab774636b0"/ alt="froggy">
+    <h1 id="Tiny-Hammer">
+       Tiny Hammer</h1>
+       <h3>$12.95</h3>
+       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu-Zgy_quKdRNfjTRO1AoGK7R9c1BElf7Eow&usqp=CAU"/ alt="hammer"></br>
+       </br>
+       </br>
+       </br>
+     <form id="form" action="https://www.freecodecamp.com/email-submit">
+       <input id="email" type="email" placeholder="JohnSmith@Aol.com" name="email"></input>
+       <input id="submit" type="submit"></input>
+       </form>
+    </body>
+    </main>
+
+
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+* {  background-color: tan
+}
+
+@media only screen and (max-width: 600px) {
+  background-color: blue;
+}
+
+.header-image {
+  max-width: 40px;
+  max-height: 40px;
+  padding-top: 20px;
+}
+
+#all-header {
+  display: flex;
+  font-family: Gill Sans, sans-serif;
+flex-direction: row;
+}
+
+nav {
+  font-family: American Typewriter, serif; 
+}
+
+
+** end of undefined **
+

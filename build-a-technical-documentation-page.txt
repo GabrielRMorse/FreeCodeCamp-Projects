@@ -1,0 +1,113 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="styles.css"/>
+<main id="main-doc">
+        <nav id="navbar">
+        <header ><br/>
+        Peanut Butter Support
+          </header>
+          
+          <br/><a class="nav-link" href="#Introduction">Introduction</a><br/><br/>
+          <a class="nav-link" href="#Not_hungry?">Not hungry?</a><br/>
+         <br/> <a class="nav-link" href="#support">Support</a>
+         <br/><br/> <a class="nav-link" href="#brands">Brands</a>
+        <br/><br/>  <a class="nav-link" href="#almond_butter">Almond Butter</a>
+        </nav>
+        
+        <br/><br/><section id="Introduction" class="main-section">
+    <header class="bigtitle">Introduction
+      </header>
+
+      <p><span id="big_font">PEANUT BUTTER</span>. We all want it.  We all enjoy it.  But sometimes, you feel as though you aren't eating as much as you could be.</p>
+      <p>How can you realize your Peanut Butter Potential?&trade; We've compiled these tips and organized support groups to help you on your journey. </p>
+    </section>
+     <br/><section id="Not_hungry?" class="main-section">
+    <header class="bigtitle">
+      Not hungry?
+      </header>
+      <p>When you have been eating a lot of peanut butter, your stomach can sometimes send a false signal to your brain that you aren't hungry.  We call this feeling "lazy belly."</p><p>Peanut butter holds lots of essential nutrients, including fat, carbs, and protein.  It's important to let your stomach know that it's complaints won't affect your peanut butter intake.  In order to put your stomach in it's place, consume extra peanut butter anytime your stomach tells you to stop.  If your stomach hasn't told you to stop, then of course you can keep eating anyways.  Just shovel it in there with a spoon and you'll be well on your way.
+
+        Here is a basic stomach-shushing process that you can use:<br><br>
+<li><code>Receive whiny, pathetic input from underachieving stomach</code></li>
+<li><code>Grab spatula</code></li>
+<li><code>Whack stomach with spatula. "Bad stomach!" </code></li>
+  <li><code>Rub stomach and apologize. "I'll never hurt you again."</code></li>
+    <li><code>Continue shoveling peanut butter into your mouth.</code></li> 
+      </p>
+    </section>
+     <br/><section id="support" class="main-section">
+  <header class="bigtitle">
+    Support
+      </header>
+      <p>If your peanut butter journey has been a solo one, and you would like to join a high peanut butter potential community, we have ways for you to connect and communicate with other sophisticated peanutiphers.</p><p>We have a facebook group with over 100,000 members, but due to an impossibly high demand there is a waiting list.  Since you are just beginning your peanut butter journey, we highly suggest signing up for our award-winning  <a href="peanutbutterpartner.com">Peanut Butter Partner&trade;</a> program.</p>
+         </section>
+     <br/><section id="brands" class="main-section">
+     <header class="bigtitle">
+       Brands
+      </header>
+      <p>There are many brands of peanut butter, and you can't really go wrong with any of them. However, the following brands have all been tested and recommended by our highly-educated community:</p>
+      <p>
+        <li>Skippy</li>
+        <li>Jif (although not as highly recommended as Skippy)</li>
+        <li>And obviously, any local sort of fancy peanut butter that requires stirring is excellent</li>
+      </p>
+    </section>
+    <br/> <section id="almond_butter" class="main-section">
+     <header class="bigtitle">
+      Almond Butter
+      </header>
+      <p>The almond butter debate has been raging for centuries, but most peanut butter aficionados have sworn off of it since Almond Butter Andy poisoned the legend Peanut Butter Perry.</p>
+      <p>
+        To read more about the legend of Peanut Butter Perry, click <a href="peanutbutterperry.com">here<a/>.
+      </p>
+      </section>
+  </main>
+
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+#big_font {
+  font-weight: bold;
+}
+
+p {
+  text-indent: 20px;
+}
+
+ .bigtitle{
+  font-size: 23;
+  font-weight: bold;
+}
+
+main{
+  width: 100%;
+  margin: auto;
+  background-color: #dca465;
+}
+
+nav{
+background-color: #008080;
+  border-style: solid;
+  border-color: #023401;
+  border-width: 20px;
+  text-align: center;
+  font-size: 30;
+padding-bottom: 20px;
+}
+
+.nav-link {
+  font-size: 20;background-color: #;
+  color: black;
+}
+
+@media all {
+  max-width: 100%;
+}
+
+** end of undefined **
+

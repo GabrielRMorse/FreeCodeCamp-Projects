@@ -1,0 +1,51 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <link rel="stylesheet" href="styles.css">
+<h1 id="title">
+ Preliminary Personal Peanut Butter Evaluation </h1>
+ <p id="description">
+   You may be eligible for our Peanut Butter Partner&trade; program to help maximize your peanut butter potential
+   </p>
+   <form id="survey-form">
+ 
+     <label id="name-label"> What's your name? <input id="name" required type="text" placeholder="Skippy Creamy">
+</label><br>
+ <label id="email-label">Email? <input required id="email" type="email" placeholder="PBLover@Nuts.com"></label><br>
+
+     <label id="number-label"> How many jars of peanut butter do you eat per month? (Must be at least 5 jars, but more is recommended) <input id="number" required type="number" min="5" max="100" placeholder="50"></label><br>
+Are you satisfied with the amount of peanut butter that you eat?
+<select id="dropdown">
+  <option> Select One </option>
+  <option value="great">I already eat a lot of peanut butter, but I could always strive to eat more</option>
+  <option value="good">I eat a decent amount of peanut butter. I would like to eat more, but I'm not quite sure how</option>
+  <option value="whatever">I eat the amount of peanut butter that a normal person would eat.  What's wrong with that?</option>
+  <option value="bad">I don't eat peanut butter and/or I have a medical condition that restricts my peanut butter intake to an unacceptably low level</option><br>
+<input type="radio" name="partner" value="yes">
+I want/need a Peanut Butter Partner&trade; to increase your peanut butter consumption<br>
+<input type="radio" name="partner" value="no">
+I do not want/need a Peanut Butter Partner&trade; <br>
+<input type="radio" name="partner" value="already"> I already have a Peanut Butter Partner&trade; and am satisfied with our Peanut Butter Progress<br>
+Which is your favorite brand of peanut butter? <br>
+<input type="checkbox" value="all"> All of the below <br>
+<input type="checkbox" value="Skippy"> Skippy <br>
+<input type="checkbox" value="none"> None of the above or below <br>
+<input type="checkbox" value="Jif"> Jif <br>
+<input type="checkbox" value="all"> All of the above <br>
+Please write an explorative essay detailing your peanut butter journey (must be at least 5000 characters)
+<textarea rows="20" cols="30" required min="100" type="text" placeholder="When I was a young child I had already begun developing a profound propensity for peanut butter..." minlength="5000"></textarea><br>
+<input type="submit" id="submit">
+
+
+     </form>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+
+
+** end of undefined **
+

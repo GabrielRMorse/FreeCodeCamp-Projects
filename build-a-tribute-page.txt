@@ -1,0 +1,55 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+  <main id="main" "charset=UTF-8">
+    <link rel="stylesheet" href="styles.css">
+    <title id="title">Peanut Butter Perry</title>
+    <div id="img-div"><img id="image" src="https://c7.alamy.com/comp/MT80C2/portrait-of-a-smi…-butter-and-banana-open-faced-sandwich-MT80C2.jpg"/>
+    <div id="img-caption"><p id="caption">Peanut Butter Perry (1972-2016) enjoying a banana and peanut butter open-faced sandwich</p></div>
+      </div>
+      <div id="tribute-bio">
+        In the long history of peanut butter trailblazers coming from the American South, the supremacy of Peanut Butter Perry and his many accomplishments remain unchallenged.
+        <br></br>
+        <p>While the well-known swindler and narcissist Almond Butter Andy was traveling across the country doing photo-ops and gaining followers, Peanut Butter Perry stayed at his home in Georgia, quietly working to improve his ability.  He meditated in a vat of peanut butter for twelve hours a day, consuming his way out of it each night before going to sleep.  His practice and dedication led him to truly realize his peanut butter potential.</p><br></br>
+        <p>When his childhood friend- turned-mortal enemy Mayonnaise Mark burned down his house and peanut butter vats in a fit of jealousy, Perry had no choice but to hit the road.  He became a traveling peanut butter performer, thrilling restaurant customers with his preposterous peanut butter feats. </p>
+        <br></br>
+      <p>  In 2016, tragedy struck again.  Poisoned by Almond Butter Andy's tainted peanut butter during their penultimate showdown, Perry refused to lose.  He continued to consume more and more peanut butter, defeating Almond Butter Andy even his weakened state.  However, he succumbed to the poison and Peanut Butter Perished that evening.</p>
+<br></br>
+        </div>
+      <div id="tribute-info">In Peanut Butter Perry's honor, the Peanut Butter Foundation has started up the <a id="tribute-link" target="_blank" href="www.google.com">Peanut Butter Partner Program</a>.  If you are interested in increasing your peanut butter consumption levels and would like to be matched up with mutual support from a new friend around the globe, feel free to make a profile and sign up, free of charge.
+        </div>
+    </main>
+  </html>
+
+** end of undefined **
+
+** start of undefined **
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+main {
+background-color: #E1D2C3;
+}
+
+#caption {
+text-align: center;
+font-family: arial;
+font-size: 13
+}
+
+
+#tribute-bio {
+text-align: left;
+font-family: Georgia;
+text-indent:
+10px;
+margin: 10px;
+line-height: 20px;
+}
+
+** end of undefined **
+
